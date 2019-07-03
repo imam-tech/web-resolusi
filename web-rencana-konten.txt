@@ -2,5 +2,6 @@ Rencana Konten
 - Javascript
  * ES6
  * Framework javascript
+ Angular
 - PHP framework
-- Vlogs
+Laravel
